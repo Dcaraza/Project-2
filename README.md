@@ -10,7 +10,7 @@ Devin Caraza
 
 Amber Harper
 
-Vince
+Vince Hong
 
 ## Getting Started
 
