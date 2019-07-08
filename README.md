@@ -43,7 +43,7 @@ Sequelize (ORM)
 
 JawsDB (Heroku database add-on)
 
-JawsDB is an add-on for providing a fully functional MySQL Database server for use with your Heroku application.
+JawsDB is an add-on for providing a fully functional MySQL Database server for use with your Heroku application. The add-on gives access to a fully-functional MySQL database with no barriers or hoops to jump through
 
 ## Prerequisites
 
@@ -56,3 +56,5 @@ Node.js
 Sort By Year 
 
 Sort By Rating
+
+Play movies from within the site
